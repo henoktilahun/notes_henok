@@ -1,17 +1,11 @@
 # Welcome to My Notes
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For my website and blog visit me at [henoktilahun.com](https://www.henoktilahun.com)
 
-## Commands
+## What is this?
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Notes by Henok is a place where I can share my notes publicly. It will consist of anything from fully structured notes that go along with my learning to random brain dumps I have. It will be the main source of documenation for my learning.
 
-## Project layout
+## Like what you see?
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+You can do the same thing or even have a website just using markdown! For full documentation visit [mkdocs.org](https://www.mkdocs.org). This was largly inspired by [Learn to Cloud](https://learntocloud.guide/) and [notes.rishab.cloud](https://notes.rishab.cloud/) authord by [Gwyneth Pena-Siguenza](https://twitter.com/madebygps) and [Rishab Kumar](https://twitter.com/rishabk7)
