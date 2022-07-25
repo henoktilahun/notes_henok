@@ -2,9 +2,6 @@
 
 site_name: Notes by Henok
 site_url: https://henok.tech/
-#nav:
-#  - Home: index.md
-#  - About: about.md
 
 theme:
   name: material
@@ -34,9 +31,13 @@ theme:
 
 nav:
   - Home: index.md
-  - About: about.md
   - Linux:
-    - Linux/index.md
-    - Commnds: Linux/commands.md
+    - Overview: Linux/overview.md
+    - Command Line: Linux/command_line.md
+  - Career:
+    - System Administration: Career/sysadmin.md
   - Blog: https://henoktilahun.com/
 
+markdown_extensions: 
+  - attr_list
+  - md_in_html
