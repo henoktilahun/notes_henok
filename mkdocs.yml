@@ -38,3 +38,6 @@ nav:
     - System Administration: Career/sysadmin.md
   - Blog: https://henoktilahun.com/
 
+markdown_extensions: 
+  - attr_list
+  - md_in_html

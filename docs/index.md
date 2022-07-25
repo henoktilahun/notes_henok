@@ -1,10 +1,15 @@
 # Welcome to My Notes
 
-For my website and blog visit me at [henoktilahun.com](https://www.henoktilahun.com)
+For my website and blog visit [henoktilahun.com](https://www.henoktilahun.com)
 
 ## What is this?
 
 Notes by Henok is a place where I can share my notes publicly. It will consist of anything from fully structured notes that go along with my learning to random brain dumps I have. It will be the main source of documenation for my learning.
+
+## Latest Notes
+- [System Administration](Career/sysadmin.md){ .md-button }
+- [Command Line](Linux/command_line.md){ .md-button }
+- [Linux Overview](Linux/overview.md){ .md-button }
 
 ## Like what you see?
 
