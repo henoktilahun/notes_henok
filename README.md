@@ -1,6 +1,6 @@
 # Welcome to My Notes
 
-Notes by Henok is a place where I can share my notes publicly. It will consist of anything from fully structured notes that go along with my learning to random brain dumps I have. 
+__Notes by Henok__ is a place where I can share my notes publicly. It will consist of anything from fully structured notes that go along with my learning to random brain dumps I have. 
 
 ## My Notes
 - [Linux](./Linux/overview.md)
