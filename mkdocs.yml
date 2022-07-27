@@ -34,10 +34,12 @@ nav:
   - Linux:
     - Overview: Linux/overview.md
     - Command Line: Linux/command_line.md
-  - Career:
-    - System Administration: Career/sysadmin.md
-  - Blog: https://henoktilahun.com/
+  - Cloud:
+    - Cloud Resume Challenge: Cloud/crc.md
+  - Blog: https://www.henoktilahun.com/tag/blogs/
 
 markdown_extensions: 
   - attr_list
-  - md_in_html
+
+repo_url: https://github.com/henoktilahun/notes_henok
+repo_name: henoktilahun/notes_henok
