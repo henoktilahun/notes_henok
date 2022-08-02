@@ -35,7 +35,10 @@ nav:
     - Overview: Linux/overview.md
     - Command Line: Linux/command_line.md
   - Cloud:
-    - Cloud Resume Challenge: Cloud/crc.md
+    - Cloud Resume Challenge: Cloud/CloudResumeChallenge/crc.md
+    - Azure Environments: Cloud/CloudResumeChallenge/azure_env.md
+    - Azure Account: Cloud/CloudResumeChallenge/azure_account.md
+    - Local Dev Env: Cloud/CloudResumeChallenge/local_dev.md
   - Blog: https://www.henoktilahun.com/tag/blogs/
 
 markdown_extensions: 
