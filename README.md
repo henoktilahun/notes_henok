@@ -4,7 +4,8 @@ __Notes by Henok__ is a place where I can share my notes publicly. It will consi
 
 ## My Notes
 - [Linux](./Linux/overview.md)
-- [Cloud](./Cloud/crc.md)
+- [Cloud](./Cloud/CloudResumeChallenge/crc.md)
+= [Blog](https://www.henoktilahun.com/tag/blogs/)
 
 You can also find my blog at [henoktilahun.com](https://www.henoktilahun.com/tag/blogs/)
 

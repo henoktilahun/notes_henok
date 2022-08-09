@@ -8,7 +8,7 @@ Notes by Henok is a place where I can share my notes publicly. It will consist o
 
 ## My Notes
 [Linux](./Linux/overview.md){ .md-button }
-[Cloud](./Cloud/crc.md){ .md-button }
+[Cloud](./Cloud/CloudResumeChallenge/crc.md){ .md-button }
 [Blog](https://www.henoktilahun.com/tag/blogs/){ .md-button }
 
 ## Like what you see?
