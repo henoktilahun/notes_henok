@@ -20,4 +20,13 @@
 - Should give you a primary and secondary endpoint
 
 - Under storage account > containers > $web:
-    - click upload
+    - click upload and select files
+
+    - To upload folders:
+        - go to storage account
+        - storage browser > blob containers > $web 
+        - Click add directory
+        - give it a name and hit 'ok'
+            - while you're still on that page upload the files - upload, browse and select
+
+- Once you have all your files uploaded - you should have a webpage you can access publicly 
