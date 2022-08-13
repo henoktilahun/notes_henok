@@ -21,5 +21,31 @@
     - Select 'Create' and it should create an Azure CDN 
 
 
-Configure HTTPS on an Azure CDN custom domain
+## Add custom domain to endpoint
+
+### Create CNAME DNS record
+- For google dns
+    - go to domains.google
+    - find your custom domain or get one
+    - Click manage
+    - Under 'DNS', select 'Manage custom records'
+    - add:
+        - Host Name: www
+        - Type: CNAME
+        - Data: _Azure Endpoint_
+- Note: in google DNS, you have to point your A/root record to an IP address to you won't be able to point example.com to your end point. The workaround for me was to use forwarding - so example.com forwards to www.example.com which was set up in the previous instructions. 
+
+### Add a custom domain to your CDN endpoint
+- In your portal, go to the CDN you created
+- Click '+ Custom Domain'
+- Endpoint should be prefilled
+- Add your custom hostname. i.e. www.example.com 
+    - You'll need to already have create your dns record before this
+- That's it!
+- According to AZURE, it should take around 10 minutse for everything to propagate and you should be able to navigate to your custom domain and access your content
+
+
+## Configure HTTPS on Azure CDN
+
+### TLS/SSL certs - CDN managed
 - 
